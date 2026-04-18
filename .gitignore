@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 venv/
 backend/venv/
 backend/config/venv/
@@ -7,6 +8,8 @@ db.sqlite3
 .env
 node_modules/
 =======
+=======
+>>>>>>> fc50d8c584411034dddcaadaa45f89b77773521f
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -214,4 +217,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
+>>>>>>> fc50d8c584411034dddcaadaa45f89b77773521f
+=======
 >>>>>>> fc50d8c584411034dddcaadaa45f89b77773521f
