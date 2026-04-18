@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 venv/
 backend/venv/
 backend/config/venv/
@@ -7,9 +6,11 @@ __pycache__/
 db.sqlite3
 .env
 node_modules/
-=======
-=======
->>>>>>> fc50d8c584411034dddcaadaa45f89b77773521f
+
+chrome-headless-shell.exe
+*.exe
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
