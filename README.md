@@ -77,9 +77,6 @@ npm start
 “Recommend books like Sharp Objects”
 “What is the genre of this book?”
 “Explain the main theme of Sapiens”
-📸 Screenshots
-
-(Add screenshots here)
 
 Dashboard Page
 Book Details Page
