@@ -6,7 +6,10 @@ __pycache__/
 db.sqlite3
 .env
 node_modules/
-
+# ignore heavy executables
+*.exe
+backend/config/chrome-headless-shell.exe
+venv/
 chrome-headless-shell.exe
 *.exe
 
